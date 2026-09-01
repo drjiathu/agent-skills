@@ -8,4 +8,3 @@
 6. Open a pull request into `develop`.
 
 Changes promoted to `main` should use a Git Flow release or hotfix branch.
-

@@ -9,4 +9,3 @@
 - Never add credentials, private keys, internal tokens, or machine-specific secrets.
 - Run `python3 scripts/validate_skills.py` before committing.
 - Develop on `develop` or a Git Flow branch; reserve `main` for released content.
-
