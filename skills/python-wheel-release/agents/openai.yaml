@@ -1,0 +1,4 @@
+interface:
+  display_name: "Python Wheel Release"
+  short_description: "安全构建、验证并发布可追溯的 Python wheel 制品"
+  default_prompt: "使用 $python-wheel-release 为当前 Python 项目准备并验证一次可追溯的 release。"

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Systemd Wheel Deploy"
+  short_description: "事务式部署 wheel 到 systemd oneshot"
+  default_prompt: "使用 $systemd-wheel-deploy 将指定 wheel release 安全部署到 systemd oneshot 生产环境。"
