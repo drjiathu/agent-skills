@@ -79,4 +79,3 @@ license, scripts, and instructions have been reviewed.
 
 - [Agent Skills specification](https://agentskills.io/specification)
 - [OpenAI Plugins](https://github.com/openai/plugins)
-
